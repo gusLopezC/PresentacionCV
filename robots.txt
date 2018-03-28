@@ -3,4 +3,4 @@ Disallow: /css/
 Disallow: /js/
 Disallow: /images/
 Disallow: /inc/
-Sitemap: http://www.dgarcia.mx/sitemap.xml
+Sitemap: http://guslopezcallejas.hostlibre.ml/sitemap.xml
